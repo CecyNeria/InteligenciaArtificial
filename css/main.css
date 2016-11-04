@@ -1,7 +1,10 @@
 body{
-	background-color: #e040fb;
+	background-color: #b388ff;
 }
 
 .título{
 	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size: 100px;
+	color: #ffffff; 
 }
